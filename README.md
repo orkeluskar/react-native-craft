@@ -32,8 +32,3 @@ React Native app to add models to Quickbase Inventory
    npm start
    ```
 6. Visit the expo link from your phone which will be visible in the terminal
-
-
-## Demo
-
-[demo](https://im.ezgif.com/tmp/ezgif-1-b53b4157f3.gif)
