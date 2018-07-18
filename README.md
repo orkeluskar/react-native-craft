@@ -36,4 +36,4 @@ React Native app to add models to Quickbase Inventory
 
 ## Demo
 
-[demo](https://im.ezgif.com/tmp/ezgif-1-b53b4157f3.gif)
+![demo](https://im.ezgif.com/tmp/ezgif-1-b53b4157f3.gif)
